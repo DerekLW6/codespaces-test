@@ -1,2 +1,2 @@
-# codespaces-test
-New codespace beta
+# code-spaces-test
+Testing Codespaces
